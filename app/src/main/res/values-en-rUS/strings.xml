@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entregable_1</string>
+    <string name="created_by">Created by: Francisco Padilla Pérez</string>
+    <string name="app_version">Version 1.0.0</string>
+    <string name="hello_world">Hello world</string>
+    <string name="calculate_distances">Calculate distances</string>
+    <string name="calculate_resistor">Calculate resistor</string>
+    <string name="calculate_volume">Calculate volume</string>
+    <string name="select_option">Select an option</string>
+    <string name="enter_value">" Enter a value A"</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_value_b">Enter value B</string>
+    <string name="alert_velocity">Enter a speed (m/s) in value A and a time (s) in value B</string>
+    <string name="alert_volt">" Enter a voltage (V) in value A and an amperage (A) in value B"</string>
+    <string name="alert_radio">" Enter a radius (m) in the A value"</string>
+    <string name="please_select_option">Please select an option</string>
+    <string name="please_value_a">Please fill in place a value in A</string>
+    <string name="please_value_b">Please fill in place a value in B</string>
+    <string name="please_value_a_b">" Please fill in the values ​​A and B and these cannot be zero"</string>
+    <string name="please_a_zero">" Please fill in the value A and this cannot be zero"</string>
+    <string name="result_distance">" The result of the distance is:"</string>
+    <string name="result_resistor">" The result of the resistance is:"</string>
+    <string name="result_volume">" The volume result is:"</string>
+</resources>

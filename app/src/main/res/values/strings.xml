@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Entregable_1</string>
+    <string name="created_by">Creado por: Francisco Padilla</string>
+    <string name="app_version">Version 1.0.0</string>
+    <string name="hello_world">Hola mundo</string>
+    <string name="calculate_resistor">Calcular resitencia</string>
+    <string name="calculate_volume">Calcular volumen</string>
+    <string name="calculate_distances">Calcular distancia</string>
+    <string name="select_option">Seleccione una opción</string>
+    <string name="enter_value">Ingresa un valor A</string>
+    <string name="calculate">Calcular</string>
+    <string name="enter_value_b">Ingresa un valor B</string>
+    <string name="alert_velocity">Ingrese una velocidad (m/s) en el valor A y un tiempo (s) en el valor B</string>
+    <string name="alert_volt">Ingrese un voltaje (V) en el valor A y un amperaje (A) en el valor B</string>
+    <string name="alert_radio">Ingrese un radio (m) en el valor A</string>
+    <string name="please_select_option">Favor de seleccionar una opción</string>
+    <string name="please_value_a">Favor de llenar colocar un valor en A</string>
+    <string name="please_value_b">Favor de llenar colocar un valor en B</string>
+    <string name="please_value_a_b">Favor de llenar los valores A y B y estos no pueden ser cero</string>
+    <string name="please_a_zero">Favor de llenar el valor A y este no puede ser cero</string>
+    <string name="result_distance">El resultado de la distancia es:</string>
+    <string name="result_resistor">El resultado de la resistencia es:</string>
+    <string name="result_volume">El resultado del volumen es:</string>
+</resources>
